@@ -59,6 +59,22 @@
   <img alt="snake gif" src="https://raw.githubusercontent.com/2000Deba/2000Deba/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+### ✨ Extra Touches
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <b>Thanks for visiting!</b>  
+  
+![Profile views](https://komarev.com/ghpvc/?username=2000Deba&label=Profile%20Views&color=0e75b6&style=flat)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2000Deba&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+---
+
 ### 📫 Connect with me
 
 - 📧 Email: deep2000seal@gmail.com
