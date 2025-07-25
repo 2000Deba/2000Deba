@@ -43,12 +43,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/2000Deba/2000Deba/output/github-contribution-grid-snake.svg" />
-</p>
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -59,9 +53,15 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img alt="snake gif" src="https://raw.githubusercontent.com/2000Deba/2000Deba/output/github-contribution-grid-snake.svg" />
+</p>
+
 ### 📫 Connect with me
 
-- 📧 Email: **deep2000seal@gmail.com**
+- 📧 Email: deep2000seal@gmail.com
 - 💼 LinkedIn:
 - 🌐 Portfolio: 
 
