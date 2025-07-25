@@ -55,9 +55,9 @@
 
 ### 📫 Connect with me
 
-- 📧 Email: **[Your Email Here]**
-- 💼 LinkedIn: **[Your LinkedIn Here]**
-- 🌐 Portfolio: **[Your Portfolio Here]**
+- 📧 Email: deep2000seal@gmail.com
+- 💼 LinkedIn:
+- 🌐 Portfolio: 
 
 ---
 
