@@ -28,9 +28,9 @@
 **Learning & Deployment:**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)  
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)  
-![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-121013?style=flat&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-121013?style=flat&logo=github&logoColor=white)  
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 
 ---
