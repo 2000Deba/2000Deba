@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **a URL shortner for everyone, which makes a URL shorter and easy to operate! & Fullstack Projects**
+- 🔭 I’m currently working on: **a URL shortner for everyone, which makes a URL shorter and easy to operate! & a modern web application & Fullstack Projects**
 - 🌱 Currently learning: **Next.js** & **Advanced React**
 - ⚡ Fun Fact: I love building things from scratch — both frontend & backend!
 
