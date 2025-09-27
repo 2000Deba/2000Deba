@@ -42,7 +42,7 @@
 🌟 [Portfolio](https://portfolio-mqbv.vercel.app)  
 ☕ [Get Me A Chai - Fund your projects with chai](https://getmychai.vercel.app/)  
 🔗 [Bitlinks - Your trusted URL shortener](https://bitlinks-jet.vercel.app/)  
-🌱 [BitTree - Your favorite link sharing site](https://github.com/2000Deba/BitTree) **Live Link is comming soon**  
+🌿 [BitTree - Your favorite link sharing site](https://github.com/2000Deba/BitTree) **Live Link is comming soon**  
 🔐 [PassOp - Password Manager](https://2000deba.github.io/PassOp/)  
 📝 [Todo App (React)](https://2000deba.github.io/todo-app-react/)  
 💬 [iChat App - Fullstack Chat App](https://ichat-vtpa.onrender.com)  
@@ -69,7 +69,9 @@
   
 ![Profile views](https://komarev.com/ghpvc/?username=2000Deba&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2000Deba&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2000Deba&theme=radical&date_format=M%20j%5B%2C%20Y%5D) -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=2000Deba&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 
 </div>
 
