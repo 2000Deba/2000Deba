@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Debasish Seal</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
 
----
+<br>
 
-### 👨‍💻 About Me
+<img align="center" src="./readme-image-1.gif">
+
+<br>
+
+<h2 align="center"><b>👨‍💻 About Me</b></h2>
 
 - 🔭 I’m currently working on: **a multiple links sharing platform for everyone, which you can use to share your multiple social and others account or profile together and easy to operate! & Fullstack Projects**
 - 🌱 Currently learning: **Next.js** & **Advanced React**
 - ⚡ Fun Fact: I love building things from scratch — both frontend & backend!
 
----
+<br>
 
-### 🛠️ Tech Stack
+<h2 align="center"><b>🛠️ Tech Stack</b></h2>
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
@@ -35,9 +39,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)  
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 
----
+<br>
 
-### 🌐 Live Projects
+<h2 align="center"><b>🌐 Live Projects</b></h2>
+
+<br>
+
+<img align="right" alt="Coding" height="270" width="300" src="./readme-image-2.gif">
 
 🌟 [Portfolio](https://portfolio-mqbv.vercel.app)  
 ☕ [Get Me A Chai - Fund your projects with chai](https://getmychai.vercel.app/)  
@@ -49,9 +57,9 @@
 🎨 [Project 2](https://2000deba.github.io/Project-2/)  
 📘 [Project 3](https://2000deba.github.io/Project-3/)
 
----
+<br>
 
-### 📊 GitHub Stats
+<h2 align="center"><b>📊 GitHub Stats</b></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2000Deba&show_icons=true&theme=radical" alt="2000Deba's GitHub stats" />
@@ -59,9 +67,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2000Deba&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<br>
 
-### ✨ Extra Touches
+<h2 align="center"><b>✨ Extra Touches</b></h2>
 
 <div align="center">
 
@@ -69,16 +77,22 @@
   
 ![Profile views](https://komarev.com/ghpvc/?username=2000Deba&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2000Deba&theme=radical&date_format=M%20j%5B%2C%20Y%5D) -->
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=2000Deba&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 
 </div>
 
----
+<br>
 
-### 📫 Connect with me
+<h2 align="center"><b>🌄 GitHub Activity</b></h2>
 
-- 📧 Email: deep2000seal@gmail.com
+<div align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=2000Deba&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />   
+</div>
+
+<br>
+
+<h2 align="center"><b>📫 Connect with me</b></h2>
+
+- 📧 Email: **deep2000seal@gmail.com**
 - 💼 LinkedIn:   **https://www.linkedin.com/in/debasishseal**
-- 🌐 Portfolio: **https://portfolio-mqbv.vercel.app**
+- 🌐 Portfolio: **https://debasishseal.vercel.app/**
