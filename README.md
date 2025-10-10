@@ -17,7 +17,11 @@
 
 <h2 align="center"><b>🛠️ Tech Stack</b></h2>
 
-<img align="right" alt="Coding" height="270" width="300" src="./readme-image-2.gif">
+<br>
+
+<img align="right" alt="Coding" height="300" width="400" src="./readme-image-2.gif">
+
+<br>
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
@@ -44,6 +48,10 @@
 <br>
 
 <h2 align="center"><b>🌐 Live Projects</b></h2>
+
+<br>
+
+<img align="right" alt="Coding" height="450" width="300" src="./readme-image-3.gif">
 
 <br>
 
