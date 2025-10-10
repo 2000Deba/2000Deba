@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="right" alt="Coding" height="800" width="600" src="./readme-image-2.gif">
+<img align="right" alt="Coding" height="900" width="600" src="./readme-image-2.gif">
 
 <br>
 
