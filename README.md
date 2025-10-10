@@ -93,6 +93,6 @@
 
 <h2 align="center"><b>📫 Connect with me</b></h2>
 
-- 📧 Email: **deep2000seal@gmail.com**
+- 📧 Email: **sildebasish02@gmail.com**
 - 💼 LinkedIn:   **https://www.linkedin.com/in/debasishseal**
 - 🌐 Portfolio: **https://debasishseal.vercel.app/**
