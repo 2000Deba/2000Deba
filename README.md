@@ -17,6 +17,8 @@
 
 <h2 align="center"><b>🛠️ Tech Stack</b></h2>
 
+<img align="right" alt="Coding" height="270" width="300" src="./readme-image-2.gif">
+
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
@@ -44,8 +46,6 @@
 <h2 align="center"><b>🌐 Live Projects</b></h2>
 
 <br>
-
-<img align="right" alt="Coding" height="270" width="300" src="./readme-image-2.gif">
 
 🌟 [Portfolio](https://portfolio-mqbv.vercel.app)  
 ☕ [Get Me A Chai - Fund your projects with chai](https://getmychai.vercel.app/)  
