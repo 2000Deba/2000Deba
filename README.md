@@ -28,13 +28,17 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
 
 **Backend & DB:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-47A248?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)  
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-1572B6?style=flat&logo=cloudinary)  
+![Google Cloud Console](https://img.shields.io/badge/-Google_cloud_console-black?style=flat&logo=google-cloud)  
+![Auth.js](https://img.shields.io/badge/-Auth.js-61DAFB?style=flat&logo=authdotjs)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Razorpay](https://img.shields.io/badge/-Razorpay-38B2AC?style=flat&logo=razorpay)
 
 **Learning & Deployment:**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
@@ -42,8 +46,7 @@
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)  
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)  
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-121013?style=flat&logo=github&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)  
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
 <br>
 
