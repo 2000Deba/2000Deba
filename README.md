@@ -27,7 +27,9 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
 
 **Backend & DB:**  
@@ -36,6 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)  
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-1572B6?style=flat&logo=cloudinary)  
 ![Google Cloud Console](https://img.shields.io/badge/-Google_cloud_console-black?style=flat&logo=google-cloud)  
+![Google App Password](https://img.shields.io/static/v1?label=Google%20App%20Password&message=✔&color=4285F4&logo=gmail&logoColor=white)  
 ![Auth.js](https://img.shields.io/badge/-Auth.js-61DAFB?style=flat&logo=authdotjs)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![Razorpay](https://img.shields.io/badge/-Razorpay-38B2AC?style=flat&logo=razorpay)
@@ -60,6 +63,7 @@
 
 🌟 [Portfolio](https://portfolio-mqbv.vercel.app)  
 ☕ [Get Me A Chai - Fund your projects with chai](https://getmychai.vercel.app/)  
+🔐 [NoPass - Secure Password Manager](https://nopass-deba.vercel.app/)  
 🔗 [Bitlinks - Your trusted URL shortener](https://bitlinks-jet.vercel.app/)  
 🌿 [BitTree - Your favorite link sharing site](https://bittree-deba.vercel.app/)  
 🔐 [PassOp - Password Manager](https://2000deba.github.io/PassOp/)  
