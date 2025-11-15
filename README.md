@@ -57,7 +57,7 @@
 
 <br>
 
-<img align="right" alt="Coding" height="450" width="325" src="./readme-image-3.gif">
+<img align="right" alt="Coding" height="450" width="350" src="./readme-image-3.gif">
 
 <br>
 
@@ -72,6 +72,7 @@
 🎨 [Project 2](https://2000deba.github.io/Project-2/)  
 📘 [Project 3](https://2000deba.github.io/Project-3/)
 
+<br>
 <br>
 <br>
 <br>
