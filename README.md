@@ -57,7 +57,7 @@
 
 <br>
 
-<img align="right" alt="Coding" height="350" width="350" src="./readme-image-3.gif">
+<img align="right" alt="Coding" height="450" width="325" src="./readme-image-3.gif">
 
 <br>
 
