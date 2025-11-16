@@ -9,7 +9,7 @@
 
 <h2 align="center"><b>👨‍💻 About Me</b></h2>
 
-- 🔭 I’m currently working on: **a multiple links sharing platform for everyone, which you can use to share your multiple social and others account or profile together and easy to operate! & Fullstack Projects**
+- 🔭 I’m currently working on: **a Password Manager for everyone, which you can use to store your credit or debit cards and passwords securely and easy to operate! & Fullstack Projects**
 - 🌱 Currently learning: **Next.js** & **Advanced React**
 - ⚡ Fun Fact: I love building things from scratch — both frontend & backend!
 
